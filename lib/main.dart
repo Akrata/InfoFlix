@@ -21,7 +21,7 @@ class AppState extends StatelessWidget {
           lazy: false,
         ),
       ],
-      child: MyApp(),
+      child: const MyApp(),
     );
   }
 }
